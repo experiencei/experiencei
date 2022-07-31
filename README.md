@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@experiencei](https://medium.com/@experiencei)
 
-- 💬 Ask me about **MERN , React , React Native ,Scala , Node js , Javascript , Scala , Rust**
+- 💬 Ask me about **MERN , React , React Native ,Scala , Node js , Javascript ,.NET, C# ,Scala , Rust**
 
 - 📫 How to reach me **ayelojahighbee01@gmail.com**
 
