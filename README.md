@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **ayelojahighbee01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tX3W4-msur7ObPQWVrKM23mv_WCaipDV/view?usp=sharing](https://drive.google.com/file/d/1tX3W4-msur7ObPQWVrKM23mv_WCaipDV/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yITTXkkT_p19lnU_1T41gDwf2WdgSylI/view?usp=sharing](https://drive.google.com/file/d/1yITTXkkT_p19lnU_1T41gDwf2WdgSylI/view?usp=sharing)
 
 - ⚡ Fun fact **I smell rains when it sunny**
 
