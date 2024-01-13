@@ -1,6 +1,6 @@
 [![MasterHead](https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/full_stack/hero_image-6d2af04d8ff26b2334e0f866b3e3671b8c5e32fca0f4883c2e6a35248e36d77d.svg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ayeloja Ibrahim</h1>
-<h3 align="center">A passionate Full Stack Web and Mobile Engineer from Nigeria</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-4506461-3738664.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=experiencei&label=Profile%20views&color=0e75b6&style=flat" alt="experiencei" /> </p>
@@ -9,19 +9,14 @@
 
 - 🌱 I’m currently learning **Web 3.0 solidity**
 
-- 👯 I’m looking to collaborate on [Dribble Clone](http://dribbble-clone-react-prod.herokuapp.com/)
-
 - 🤝 I’m looking for help with **Banking App with React Native**
 
 - 👨‍💻 All of my projects are available at [https://experienceiq.netlify.app/portfolios](https://experienceiq.netlify.app/portfolios)
 
-- 📝 I regularly write articles on [https://medium.com/@experiencei](https://medium.com/@experiencei)
-
-- 💬 Ask me about **MERN , React , React Native ,Scala , Node js , Javascript ,GO, ML ,Scala , Rust**
+- 💬 Ask me about **Javascript , GO , Python , React , React Native ,Scala , Node js , Rust**
 
 - 📫 How to reach me **ayelojahighbee01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yITTXkkT_p19lnU_1T41gDwf2WdgSylI/view?usp=sharing](https://drive.google.com/file/d/1yITTXkkT_p19lnU_1T41gDwf2WdgSylI/view?usp=sharing)
 
 - ⚡ Fun fact **I smell rains when it sunny**
 
